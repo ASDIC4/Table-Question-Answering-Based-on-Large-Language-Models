@@ -1,2 +1,2 @@
 # Table-Question-Answering-Based-on-Large-Language-Models
-Using BART/GPT to extract information from massive structed table data to answer queries.
+Using BART model & GPT-3.5 to extract information from massive structed table data to answer queries.
