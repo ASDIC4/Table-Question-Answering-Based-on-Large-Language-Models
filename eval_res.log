@@ -1,0 +1,154 @@
+textual_1
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 48.13batch/s]
+Mean Accuracy: 51.63% (79.0/153)
+Standard Deviation: 0.00%
+
+textual_2
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 54.09batch/s]
+Mean Accuracy: 53.59% (82.0/153)
+Standard Deviation: 0.00%
+
+textual_3
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 54.36batch/s]
+Mean Accuracy: 47.71% (73.0/153)
+Standard Deviation: 0.00%
+
+textual_4
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 53.00batch/s]
+Mean Accuracy: 54.90% (84.0/153)
+Standard Deviation: 0.00%
+
+textual_5
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 54.74batch/s]
+Mean Accuracy: 50.98% (78.0/153)
+Standard Deviation: 0.00%
+
+symbolic_1
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 28.69batch/s]
+Mean Accuracy: 56.21% (86.0/153)
+Standard Deviation: 0.00%
+
+symbolic_2
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 31.07batch/s]
+Mean Accuracy: 51.63% (79.0/153)
+Standard Deviation: 0.00%
+
+symbolic_3
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 29.32batch/s]
+Mean Accuracy: 50.98% (78.0/153)
+Standard Deviation: 0.00%
+
+symbolic_4
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 27.10batch/s]
+Mean Accuracy: 46.41% (71.0/153)
+Standard Deviation: 0.00%
+
+symbolic_5
+len of results: 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 29.59batch/s]
+Mean Accuracy: 55.56% (85.0/153)
+Standard Deviation: 0.00%
+
+综合
+
+1-5 mix: textual * 5 
+len of results 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 90.66batch/s]
+Mean Accuracy: 57.52% (88.0/153)
+Standard Deviation: 0.00%
+6-10 mix: symbolic * 5 
+len of results 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 59.58batch/s]
+Mean Accuracy: 61.44% (94.0/153)
+Standard Deviation: 0.00%
+1-10 mix: textual * 5 + symbolic * 5
+len of results 153
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00, 46.27batch/s]
+Mean Accuracy: 64.71% (99.0/153)
+Standard Deviation: 0.00%
+textual_1
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.19batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.19batch/s]
+Mean Accuracy: 58.56% (2544.0/4344)
+Standard Deviation: 0.00%
+
+textual_2
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.25batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.25batch/s]
+Mean Accuracy: 58.54% (2543.0/4344)
+Standard Deviation: 0.00%
+
+textual_3
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.32batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.31batch/s]
+Mean Accuracy: 57.97% (2518.0/4344)
+Standard Deviation: 0.00%
+
+textual_4
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.35batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.35batch/s]
+Mean Accuracy: 59.00% (2563.0/4344)
+Standard Deviation: 0.00%
+
+textual_5
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.35batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.35batch/s]
+Mean Accuracy: 58.93% (2560.0/4344)
+Standard Deviation: 0.00%
+
+symbolic_1
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.44batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.43batch/s]
+Mean Accuracy: 54.63% (2373.0/4344)
+Standard Deviation: 0.00%
+
+symbolic_2
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.48batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.48batch/s]
+Mean Accuracy: 54.35% (2361.0/4344)
+Standard Deviation: 0.00%
+
+symbolic_3
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.41batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.41batch/s]
+Mean Accuracy: 53.87% (2340.0/4344)
+Standard Deviation: 0.00%
+
+symbolic_4
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.45batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.45batch/s]
+Mean Accuracy: 55.09% (2393.0/4344)
+Standard Deviation: 0.00%
+
+symbolic_5
+len of results: 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.42batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.41batch/s]
+Mean Accuracy: 53.68% (2332.0/4344)
+Standard Deviation: 0.00%
+
+综合
+
+1-5 mix: textual * 5 
+len of results 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  3.72batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  3.72batch/s]
+Mean Accuracy: 63.81% (2772.0/4344)
+Standard Deviation: 0.00%
+6-10 mix: symbolic * 5 
+len of results 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.47batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  2.47batch/s]
+Mean Accuracy: 61.26% (2661.0/4344)
+Standard Deviation: 0.00%
+1-10 mix: textual * 5 + symbolic * 5
+len of results 4344
+Progress:   0%|          | 0/1 [00:00<?, ?batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  1.82batch/s]Progress: 100%|██████████| 1/1 [00:00<00:00,  1.81batch/s]
+Mean Accuracy: 73.64% (3199.0/4344)
+Standard Deviation: 0.00%

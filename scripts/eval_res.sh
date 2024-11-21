@@ -1,0 +1,1 @@
+python eval_res.py > eval_res.log 2>&1

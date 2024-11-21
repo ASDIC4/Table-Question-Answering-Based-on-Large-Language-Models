@@ -1,0 +1,15 @@
+.vscode
+BART-table-decom-new-1/bart-base
+BART-table-decom-new-1/data
+BART-table-decom-new-1/new_decom_1_bart_14000_epoch50_no-use-answer
+BART-table-decom-new-1/new_decom_1_bart_14000_epoch50
+BART-table-decom-new-1/results
+BART-table-decom-new-1/loss.jsonl
+BART-table-decom-new-1/loss-no-answer.jsonl
+__pycache__
+cache
+data
+output
+output_decombart
+results
+index.html
